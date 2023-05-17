@@ -1,0 +1,22 @@
+body{
+    background-color: #DDFFBB;
+}
+.centers{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #C7E9B0;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+.extra{
+    background-color: #C7E9B0;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.margins{
+    margin-left: 50px;
+}
