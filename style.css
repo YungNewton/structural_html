@@ -1,7 +1,9 @@
 body{
     background-color: #DDFFBB;
 }
-.centers{
+.centers , hr{
+    position: fixed;
+    top: 0px;
     text-align: center;
     font-style: italic;
     font-weight: bold;
