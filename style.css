@@ -4,12 +4,12 @@ body{
 .centers , hr{
     position: fixed;
     top: 0%;
-    padding-left: 30%;
-    padding-right: 25%;
+    padding-left: 38%;
+    padding-right: 38%;
     text-align: center;
     font-style: italic;
     font-weight: bold;
-    font-size: 35px;
+    font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #C7E9B0;
     background-size: cover !important;
