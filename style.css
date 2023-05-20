@@ -4,6 +4,7 @@ body{
 .centers , hr{
     position: fixed;
     top: 0px;
+    left: 50px;
     text-align: center;
     font-style: italic;
     font-weight: bold;
