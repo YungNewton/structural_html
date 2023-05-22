@@ -46,11 +46,17 @@
     right: 40px;
 }
 .secondDiv{
-    margin-top: 100px;
+    margin-top: 10px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 18px;
     margin-bottom: 100px;
     text-align: center;
+}
+.secondDiv > img{
+    /* margin-left: 100px; */
+    /* float: left; */
+    border-radius: 60%;
+    margin-bottom: 10px;
 }
 .last{
     background-color: #DAE2B6;
