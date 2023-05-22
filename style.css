@@ -11,17 +11,20 @@
 #main_page{
     text-align: center;
 }
-#main_page .index{
+.index{
     position: relative;
-    bottom: 37px;
-    left: -25px;
+    bottom: 90px;
+    left: 40px;
     font-weight: 500;
     color: black;
+}
+.extra{
+    height: 0px;
 }
 #main_page .about{
     position: relative;
     color: black;
-    left: 20px;
+    left: -20px;
 }
 .contact{
     position: relative;
@@ -33,15 +36,14 @@
     width: 25px;
     position: relative;
     bottom: 40px;
-    right: 70px;
     top: 2px;
 }
-#main_page .home_icon{
+.home_icon{
     height: 25px;
     width: 25px;
     position: relative;
-    bottom: 40px;
-    right: 100px;
+    bottom: 90px;
+    right: 40px;
 }
 .secondDiv{
     margin-top: 100px;
