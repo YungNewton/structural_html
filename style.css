@@ -1,34 +1,6 @@
-#id{
+#main_page{
     background-color: #CCD6A6;
 }
-body{
-    background-color: #DDFFBB;
-}
-.centers , hr{
-    position: fixed;
-    top: 0%;
-    padding-left: 38%;
-    padding-right: 38%;
-    text-align: center;
-    font-style: italic;
-    font-weight: bold;
-    font-size: 30px;
+#main_page > h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #C7E9B0;
-    background-size: cover !important;
-    padding-bottom: 30px;
-    padding-top: 20px;
-}
-.extra{
-    background-color: #C7E9B0;
-}
-h2{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-.margins{
-    margin-left: 50px;
-}
-.juju{
-    margin-left: 50px;
-    border: 2px solid black;
 }
