@@ -8,18 +8,17 @@
     font-weight: bold;
     padding-top: 35px;
 }
-#main_page .about, .contact, .index{
-    color: black;
-    position: relative;
-    left: 250px;
-}
 #main_page .index{
+    position: relative;
     bottom: 37px;
     left: -25px;
     font-weight: 500;
+    color: black;
 }
 #main_page .about{
+    position: relative;
     left: 225px;
+    color: black;
 }
 #main_page img{
     height: 25px;
@@ -33,11 +32,23 @@
     top: 2px;
 }
 .contact{
+    position: relative;
+    text-align: center;
     left: 270px;
+    color: black;
 }
 .secondDiv{
-    margin-top: 50px;
+    margin-top: 100px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 18px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
+}
+.last{
+    background-color: #DAE2B6;
+    height: 320px;
+}
+.last > form{
+    position: absolute;
+    margin-top: 100px;
+    left: 50px;
 }
