@@ -8,6 +8,9 @@
     font-weight: bold;
     padding-top: 35px;
 }
+#main_page{
+    text-align: center;
+}
 #main_page .index{
     position: relative;
     bottom: 37px;
@@ -17,25 +20,28 @@
 }
 #main_page .about{
     position: relative;
-    left: 225px;
+    color: black;
+    left: 20px;
+}
+.contact{
+    position: relative;
+    left: 90px;
     color: black;
 }
-#main_page img{
+#main_page .contact_us{
     height: 25px;
     width: 25px;
     position: relative;
     bottom: 40px;
-    right: 110px;
-}
-.contact_us{
-    left: 110px;
+    right: 70px;
     top: 2px;
 }
-.contact{
+#main_page .home_icon{
+    height: 25px;
+    width: 25px;
     position: relative;
-    text-align: center;
-    left: 270px;
-    color: black;
+    bottom: 40px;
+    right: 100px;
 }
 .secondDiv{
     margin-top: 100px;
@@ -61,3 +67,4 @@
     background-color: #FFFBE9;
     border-radius: 20px;
 }
+ 
