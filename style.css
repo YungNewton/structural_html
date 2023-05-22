@@ -3,4 +3,12 @@
 }
 #main_page > h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+#main_page .index{
+    position: relative;
+    bottom: 115px;
+    left: 10px;
+    font-weight: 500;
 }
