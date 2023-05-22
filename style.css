@@ -8,12 +8,18 @@
     font-weight: bold;
     padding-top: 35px;
 }
-#main_page .index{
-    position: relative;
-    bottom: 4px;
-    left: 10px;
-    font-weight: 500;
+#main_page .about, .contact, .index{
     color: black;
+    position: relative;
+    left: 250px;
+}
+#main_page .index{
+    bottom: 37px;
+    left: -25px;
+    font-weight: 500;
+}
+#main_page .about{
+    left: 225px;
 }
 #main_page img{
     height: 25px;
@@ -21,4 +27,11 @@
     position: relative;
     bottom: 40px;
     right: 110px;
+}
+.contact_us{
+    left: 110px;
+    top: 2px;
+}
+.contact{
+    left: 270px;
 }
