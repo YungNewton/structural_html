@@ -1,6 +1,6 @@
 #first{
     background-color: #E6FFFD;
-    padding-bottom: 500px;
+    padding-bottom: 200px;
 }
 #first > h1{
     padding-top: 100px;
@@ -9,4 +9,15 @@
 }
 #first span{
     color: #B799FF;
+}
+.cloud{
+    margin-left: auto;
+    display: block;
+    position: relative;
+    bottom: 100px;
+    right: 50px;
+}
+.cloud2{
+    position: relative;
+    left: 20px;
 }
