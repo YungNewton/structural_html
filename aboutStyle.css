@@ -1,6 +1,6 @@
 #first{
     background-color: #E6FFFD;
-    padding-bottom: 200px;
+    padding-bottom: 100px;
 }
 #first > h1{
     padding-top: 100px;
@@ -14,10 +14,20 @@
     margin-left: auto;
     display: block;
     position: relative;
-    bottom: 100px;
+    bottom: 130px;
     right: 50px;
 }
 .cloud2{
     position: relative;
     left: 20px;
+}
+.ice{
+    position: relative;
+    top: 100px;
+    width: 100%;
+    border-radius: 20%;
+    height: 200px
+}
+{
+    
 }
