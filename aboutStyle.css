@@ -1,0 +1,12 @@
+#first{
+    background-color: #E6FFFD;
+    padding-bottom: 500px;
+}
+#first > h1{
+    padding-top: 100px;
+    text-align: center;
+    font-family:'Satisfy', cursive;
+}
+#first span{
+    color: #B799FF;
+}
